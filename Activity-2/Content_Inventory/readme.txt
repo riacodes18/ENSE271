@@ -1,0 +1,1 @@
+This folder has all content related to the content inventory spreadsheet

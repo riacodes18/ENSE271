@@ -1,0 +1,1 @@
+This folder has all content related to the asset inventory spreadsheet
