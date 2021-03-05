@@ -4,3 +4,5 @@ This folder contains all content for activity 2, including:
 - asset/content inventory documents
 - User Stories Map snapshot
 - The link of our [USM Pages](https://landofooo.storiesonboard.com/m/coruscentiens).
+- [I'm an inline-style link](https://www.google.com)
+[I'm an inline-style link](https://www.google.com)
